@@ -5,5 +5,5 @@
 * Install dependencies `npm install`
 
 ## Running your tests
-- To run parallel tests, run `npm run test`
-- To run local test, run `npm run local`
+- To run local tests, run `npm run test`
+- To run browserstack test, run `npm run bstack`
